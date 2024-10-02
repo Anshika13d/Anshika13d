@@ -47,6 +47,7 @@
 
 <br/>
 <hr>
+
 <h3> Profile on Coding Platforms: </h3>
 
 <p align="center">
@@ -55,6 +56,7 @@
 <a href="https://www.hackerrank.com/profile/anshika1366" rel="nofollow">Hackerrank</a>🏆
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.codingninjas.com/studio/profile/8d4d3f43-fe30-4741-b002-d2d12a229c1f" rel="nofollow">CodeStudio</a>🏆
       </p>
+       <br/>
 <hr></hr>
 
 
@@ -71,5 +73,7 @@
             </tr>
       </thead>
 </table>
-
+<br/>
+<hr>
+<br/>
 <p align="center">🌟 'Just be yourself, there is no one better.' — Taylor Swift</p>
