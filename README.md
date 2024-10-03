@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📝 I regularly write articles on [Technology](Technology)
+- 📝 I regularly write articles on ([Technology](https://www.geeksforgeeks.org/user/anshika_d1/contributions/))
 
-- 💬 Ask me about **Java, MERN stack**
+- 💬 Ask me about **Java, DSA, MERN stack**
 
 - 📫 How to reach me **anshikadsmail@gmail.com**
 
