@@ -27,7 +27,7 @@
 <a href="https://instagram.com/_anshikad._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anshikad._" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anshika1366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anshika1366" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anshika_d06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshika_d06" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/anshika_d1/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="[https://auth.geeksforgeeks.org/user/anshika_d1/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user](https://www.geeksforgeeks.org/user/anshika_d1/)" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/anshika_d1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anshika_d1" height="30" width="40" /></a>
 </p>
 
 <br/>
