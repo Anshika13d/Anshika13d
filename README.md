@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **anshikadsmail@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/Yg658](Resume)
+- 📄 Know about my experiences [https://shorturl.at/Yg658]
 
 - ⚡ Fun fact **I’m fluent in Java and code faster than I reply to texts!**
 
